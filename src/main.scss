@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(45, 86, 105);
+  color: white;
+
+  .app {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-size: 60px;
+  }
+}
